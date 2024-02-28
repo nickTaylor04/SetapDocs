@@ -12,7 +12,7 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
-EACH PAGE NEEDS A NEW FILE .rst
+   EACH PAGE NEEDS A NEW FILE .rst . 
 
 Contents
 --------
